@@ -72,7 +72,7 @@ _Object-oriented design and advanced C# topics._
       - [Project: Implement class inheritance](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP2_Implement-Inheritance-And-Polymorphism/M1_Implement-Class-Inheritance/Bank/Bank.cs) 
       - [Project: Implement polymorphic behavior](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP2_Implement-Inheritance-And-Polymorphism/M2_Implement-Polymorphic-Behavior/Bank/Bank.cs) 
     
-- **Milestone 2: Interfaces Events And Data Management**
+- **Milestone 2: Interfaces And Application Data Management**
   - **Learning Path 1: Implement interfaces**
     - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/fq2fqksx)
       - [Project: Discover interfaces](/P2_AdvancedCSharp/MS2_Interfaces-Events-And-Data-Management/LP1_Implement-Interfaces/M1_Discover-Interfaces/Program.cs)
