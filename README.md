@@ -57,6 +57,13 @@ _Object-oriented design and advanced C# topics._
 
 [MS Learn Plan](https://learn.microsoft.com/en-us/plans/3o7mf6t0qewg37?tab=tab-learning-paths#&sharingId=F980F4604DE0FA9E)
 
+**❗Note: The official MSLearn lab exercises don't seem to provide the correct starter project files for "Get started with dates, times, and time zones. For this project I have created my own somewhat simplified implementations to meet the requirements that you can also use.**
+- Go to the [Project Directory](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP2_Manage-Application-Data/M1_Get-Started-With-Dates-Times-And-Time-Zones/)
+- Copy and paste the `Bank` directory into your own development environment.
+- Replace `Bank.cs` with `StarterTemplate.cs` to provide your own solutions.
+- Copy and paste the .sln file and optionally Directory.Build.props.
+
+
 #### Achievements
 
 [![Microsoft Applied Skills: Get started with classes, properties, and methods in C#](/.github/assets/P2/ms-applied-skills_classes-properties-methods-csharp.png)](https://learn.microsoft.com/api/credentials/share/en-us/Gajdascz/AD58F826416A0DE3?sharingId=F980F4604DE0FA9E)
@@ -64,17 +71,20 @@ _Object-oriented design and advanced C# topics._
 - **Milestone 1: OOP Fundamentals**
   - **Learning Path 1: Implement classes, properties, and methods**
     - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/uaxj5dy3)
-      - [Project: Get started with classes and objects](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP1_Implement-Classes-Properties-And-Methods/M1_Classes/Program.cs) 
-      - [Project: Implement class properties and methods](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP1_Implement-Classes-Properties-And-Methods/M2_Classes/Program.cs) 
-      - [Project: Manage class implementations](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP1_Implement-Classes-Properties-And-Methods/M3_Classes/Bank/Bank.cs) 
+      - [Project: Get started with classes and objects](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP1_Implement-Classes-Properties-And-Methods/M1_Get-Started-With-Classes-And-Objects/Program.cs) 
+      - [Project: Implement class properties and methods](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP1_Implement-Classes-Properties-And-Methods/M2_Implement-Class-Properties-And-Methods/Program.cs) 
+      - [Project: Manage class implementations](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP1_Implement-Classes-Properties-And-Methods/M3_Manage-Class-Implementations/Bank/Bank.cs) 
   - **Learning Path 2: Implement inheritance and polymorphism**
     - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/cyn5wpt9)
       - [Project: Implement class inheritance](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP2_Implement-Inheritance-And-Polymorphism/M1_Implement-Class-Inheritance/Bank/Bank.cs) 
       - [Project: Implement polymorphic behavior](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP2_Implement-Inheritance-And-Polymorphism/M2_Implement-Polymorphic-Behavior/Bank/Bank.cs) 
     
-- **Milestone 2: Interfaces And Application Data Management**
+- **Milestone 2: Interfaces And Application data Management**
   - **Learning Path 1: Implement interfaces**
     - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/fq2fqksx)
       - [Project: Discover interfaces](/P2_AdvancedCSharp/MS2_Interfaces-Events-And-Data-Management/LP1_Implement-Interfaces/M1_Discover-Interfaces/Program.cs)
       - [Project: Apply interfaces in code](/P2_AdvancedCSharp/MS2_Interfaces-Events-And-Data-Management/LP1_Implement-Interfaces/M2_Apply-Interfaces-In-Code/src/Program.cs)
       - [Project: Design resilient code with interfaces](/P2_AdvancedCSharp/MS2_Interfaces-Events-And-Data-Management/LP1_Implement-Interfaces/M3_Design-Resilient-Code-With-Interfaces/Program.cs)
+  - **Learning Path 2: Manage application data**
+    - [Achievement]()
+      -[Project: Get started with dates times and time zones](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP2_Manage-Application-Data/M1_Get-Started-With-Dates-Times-And-Time-Zones/Bank/Bank.cs)
