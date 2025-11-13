@@ -1,0 +1,22 @@
+TransactionId,TransactionType,TransactionDate,TransactionTime,PriorBalance,TransactionAmount,SourceAccountNumber,TargetAccountNumber,Description
+cf9b5fa5-8f12-427d-ac89-09a4e9d14cce,Withdraw,3/1/2025,12:00 PM,5000.00,3071.20,12032427,12032427,Rent payment
+f026e262-5bba-4e99-91f6-e23ad9510069,Withdraw,3/1/2025,9:00 PM,1928.80,155.00,12032427,12032427,Debit card purchase
+1d0c8da5-efda-4193-afb6-7a56160ebb3b,Withdraw,3/3/2025,8:00 AM,1773.80,400.00,12032427,12032427,Withdraw for expenses
+b4a16b4f-5ac9-48e1-b3f0-2d34a7ae0eac,Bank Fee,3/3/2025,12:00 PM,1373.80,50.00,12032427,12032427,-(BANK FEE)
+c3b330c6-8dda-44d7-9110-a9e9d4b2629d,Bank Refund,3/5/2025,12:00 PM,1323.80,100.00,12032427,12032427,Refund for overcharge -(BANK REFUND)
+4c0c248e-f934-4776-88d3-058b1dbd8e20,Withdraw,3/8/2025,9:00 PM,1423.80,196.00,12032427,12032427,Debit card purchase
+52fd51cc-9d24-4ba6-bfe7-c32d8456bc37,Withdraw,3/10/2025,8:00 AM,1227.80,400.00,12032427,12032427,Withdraw for expenses
+d5b9302e-64ce-47b0-90f5-4adcd05e54dc,Bank Fee,3/10/2025,12:00 PM,827.80,50.00,12032427,12032427,-(BANK FEE)
+5bb0327b-fb49-41cb-858e-924a82196da5,Deposit,3/14/2025,12:00 PM,777.80,3834.00,12032427,12032427,Bi-monthly salary deposit
+453a2d4e-f621-43f7-80c3-f73ea95beb33,Withdraw,3/15/2025,9:00 PM,4611.80,197.00,12032427,12032427,Debit card purchase
+665df050-5a32-45b7-a459-462a764d0016,Withdraw,3/17/2025,8:00 AM,4414.80,400.00,12032427,12032427,Withdraw for expenses
+253c03ad-5154-4a3f-81bc-e43cae17fc17,Withdraw,3/20/2025,12:00 PM,4014.80,68.00,12032427,12032427,Auto-pay waste management bill
+e9b2b5db-1a78-4cb4-b296-f29bd82e717e,Withdraw,3/20/2025,12:00 PM,3946.80,89.00,12032427,12032427,Auto-pay water and sewer bill
+e8dde7af-9390-491c-93cf-7df3d4f76787,Withdraw,3/20/2025,12:00 PM,3857.80,143.00,12032427,12032427,Auto-pay gas and electric bill
+5a2d801b-1e05-488c-a07c-89b226f8ee64,Withdraw,3/20/2025,12:00 PM,3714.80,156.00,12032427,12032427,Auto-pay health club membership
+d9bf6bb9-d962-4407-91d0-3f66595d8f7a,Withdraw,3/22/2025,9:00 PM,3558.80,184.00,12032427,12032427,Debit card purchase
+e70a806c-5ec8-4e60-a5e0-a10269c94e6d,Withdraw,3/24/2025,8:00 AM,3374.80,400.00,12032427,12032427,Withdraw for expenses
+2594e19a-3882-486e-9804-87114e4cf653,Withdraw,3/31/2025,12:00 PM,2974.80,1563.50,12032427,12032427,Auto-pay credit card bill
+d7aa3828-26be-4d0a-b033-817b9419645c,Deposit,3/31/2025,12:00 PM,1411.30,3834.00,12032427,12032427,Bi-monthly salary deposit
+05154308-d536-4d2f-9dc2-288ede988147,Transfer,3/31/2025,12:00 PM,5245.30,900.00,12032427,12032427,Transfer from checking to savings account-(TRANSFER)
+f4ca8ce8-029a-4a66-8e75-fc91911feab2,Transfer,3/31/2025,12:00 PM,15000.00,900.00,12032428,12032428,Transfer from checking to savings account-(TRANSFER)

@@ -57,12 +57,7 @@ _Object-oriented design and advanced C# topics._
 
 [MS Learn Plan](https://learn.microsoft.com/en-us/plans/3o7mf6t0qewg37?tab=tab-learning-paths#&sharingId=F980F4604DE0FA9E)
 
-**❗Note: The official MSLearn lab exercises don't seem to provide the correct starter project files for "Get started with dates, times, and time zones. For this project I have created my own somewhat simplified implementations to meet the requirements that you can also use.**
-- Go to the [Project Directory](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP2_Manage-Application-Data/M1_Get-Started-With-Dates-Times-And-Time-Zones/)
-- Copy and paste the `Bank` directory into your own development environment.
-- Replace `Bank.cs` with `StarterTemplate.cs` to provide your own solutions.
-- Copy and paste the .sln file and optionally Directory.Build.props.
-
+**❗Note: There appear to be major discrepancies between the lab exercise starter files and instructions for the "Manage application data" learning path. You can use my own project source code as a reference if you'd like to complete each exercise thoroughly, or just complete what's possible and move on.**
 
 #### Achievements
 
@@ -82,9 +77,20 @@ _Object-oriented design and advanced C# topics._
 - **Milestone 2: Interfaces And Application data Management**
   - **Learning Path 1: Implement interfaces**
     - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/fq2fqksx)
-      - [Project: Discover interfaces](/P2_AdvancedCSharp/MS2_Interfaces-Events-And-Data-Management/LP1_Implement-Interfaces/M1_Discover-Interfaces/Program.cs)
-      - [Project: Apply interfaces in code](/P2_AdvancedCSharp/MS2_Interfaces-Events-And-Data-Management/LP1_Implement-Interfaces/M2_Apply-Interfaces-In-Code/src/Program.cs)
-      - [Project: Design resilient code with interfaces](/P2_AdvancedCSharp/MS2_Interfaces-Events-And-Data-Management/LP1_Implement-Interfaces/M3_Design-Resilient-Code-With-Interfaces/Program.cs)
+      - [Project: Discover interfaces](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP1_Implement-Interfaces/M1_Discover-Interfaces/Program.cs)
+      - [Project: Apply interfaces in code](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP1_Implement-Interfaces/M2_Apply-Interfaces-In-Code/src/Program.cs)
+      - [Project: Design resilient code with interfaces](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP1_Implement-Interfaces/M3_Design-Resilient-Code-With-Interfaces/Program.cs)
   - **Learning Path 2: Manage application data**
-    - [Achievement]()
+    - [Achievement](https://learn.microsoft.com/api/achievements/share/en-us/Gajdascz/2JBKUXHV?sharingId=F980F4604DE0FA9E)
       -[Project: Get started with dates times and time zones](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP2_Manage-Application-Data/M1_Get-Started-With-Dates-Times-And-Time-Zones/Bank/Bank.cs)
+      -[Project: Implement collection types](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP2_Manage-Application-Data/M2_Implement-Collection-Types/Program.cs)
+      -[Project: Implement enum, struct, and record types](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP2_Manage-Application-Data/M3_Implement-Enum-Struct-And-Record-Types/Program.cs)
+
+
+- **Milestone 3: Local Filesystem IO, Asynchronous Programming, and Events**
+  - **Learning Path 1: Access local files asynchronously**
+    - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/9rxehcru)
+      - [Project: Get started with file input and output](/P2_AdvancedCSharp/MS3_Local-Filesystem-IO-Asynchronous-Programming-And-Events/LP1_Access-Local-Files-Asynchronously/M1_Get-Started-With-File-Input-And-Output/Program.cs)
+      - [Project: Store and retrieve JSON files](/P2_AdvancedCSharp/MS3_Local-Filesystem-IO-Asynchronous-Programming-And-Events/LP1_Access-Local-Files-Asynchronously/M2_Store-And-Retrieve-JSON-Files/Program.cs)
+      - [Project: Implement asynchronous tasks](/P2_AdvancedCSharp/MS3_Local-Filesystem-IO-Asynchronous-Programming-And-Events/LP1_Access-Local-Files-Asynchronously/M3_Implement-Asynchronous-Tasks/Program.cs)
+  - **Learning Path 2: Implement delegates and events**
