@@ -2,7 +2,7 @@
 
 **🚧 Work In Progress 🚧**
 
-A series of [Microsoft Learn Plans](https://learn.microsoft.com/en-us/training/support/plans) put together to provide the skills and knowledge to become a C#/.NET developer.
+A series of [Microsoft Learn Plans][MSL_PLANS] put together to provide the skills and knowledge to become a C#/.NET developer.
 
 
 ## Structure
@@ -21,76 +21,150 @@ Each `Plan` makes up a `Part` of the training.
 
 _C# fundamentals using structured procedural programming._
 
-[MSLearn Plan](https://learn.microsoft.com/en-us/plans/r3n7b2tyepe2ko?tab=tab-modules#&sharingId=F980F4604DE0FA9E)
+[MSLearn Plan][P1_PLAN]
 
 
 #### Achievements
 
-[![Foundational C# With Microsoft Certification](/.github/assets/P1/foundational-csharp.png)](https://www.freecodecamp.org/certification/gajdascz/foundational-c-sharp-with-microsoft)
+[![Foundational C# With Microsoft Certification][FOUNDATIONAL_CERT_IMG]][FOUNDATIONAL_CERT_LINK]
 
-[![Completed Plan](/.github/assets/P1/plan-complete.png)](https://learn.microsoft.com/en-us/users/gajdascz/achievements/uax2gvt3)
+[![Completed Part 1][P1_COMPLETE_ACH_IMG]][P1_COMPLETE_ACH]
+
+
 
 - **Milestone 1: C# Fundamentals**
   - **Learning Path 1: Write your first code using C# (Get started with C#, Part 1)**
-    - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/zdplrpf2)
-    - [Project](/P1_GetStartedWithCSharp/LP1_Write-Your-First-Code/Program.cs) 
+    - [Achievement][P1_MS1_LP1_ACH]
+    - [Project][P1_MS1_LP1_PROJ] 
   - **Learning Path 2: Create and run simple C# console applications (Get started with C#, Part 2)**
-    - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/ypv6lsfr)
-    - [Project](/P1_GetStartedWithCSharp/LP2_Create-And-Run-Simple-Console-Apps/Program.cs) 
+    - [Achievement][P1_MS1_LP2_ACH]
+    - [Project][P1_MS1_LP2_PROJ] 
   - **Learning Path 3: Add logic to C# console applications (Get started with C#, Part 3)**
-    - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/uaf97hz3)
-    - [Project](/P1_GetStartedWithCSharp/LP3_Logic/Program.cs) 
+    - [Achievement][P1_MS1_LP3_ACH]
+    - [Project][P1_MS1_LP3_PROJ] 
   - **Learning Path 4: Work with variable data in C# console applications (Get started with C#, Part 4)**
-    - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/fq2all6x)
-    - [Project](/P1_GetStartedWithCSharp/LP4_Work-With-Variable-Data/) 
+    - [Achievement][P1_MS1_LP4_ACH]
+    - [Project][P1_MS1_LP4_PROJ] 
   - **Learning Path 5: Create methods in C# Console applications (Get started with C#, Part 5)**
-    - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/ake44lp7)
-    - [Project](/P1_GetStartedWithCSharp/LP5_Methods/Program.cs) 
+    - [Achievement][P1_MS1_LP5_ACH]
+    - [Project][P1_MS1_LP5_PROJ] 
   - **Learning Path 6: Debug C# console applications (Get started with C#, Part 6)**
-    - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/37yv6mth)
-    - [Project](/P1_GetStartedWithCSharp/LP6_Debugging/Program.cs) 
+    - [Achievement][P1_MS1_LP6_ACH]
+    - [Project][P1_MS1_LP6_PROJ] 
 
 
 ### Part 2: Advanced C#
 
 _Object-oriented design and advanced C# topics._
 
-[MS Learn Plan](https://learn.microsoft.com/en-us/plans/3o7mf6t0qewg37?tab=tab-learning-paths#&sharingId=F980F4604DE0FA9E)
+[MS Learn Plan][P2_PLAN]
 
 **❗Note: There appear to be major discrepancies between the lab exercise starter files and instructions for the "Manage application data" learning path. You can use my own project source code as a reference if you'd like to complete each exercise thoroughly, or just complete what's possible and move on.**
 
 #### Achievements
 
-[![Microsoft Applied Skills: Get started with classes, properties, and methods in C#](/.github/assets/P2/ms-applied-skills_classes-properties-methods-csharp.png)](https://learn.microsoft.com/api/credentials/share/en-us/Gajdascz/AD58F826416A0DE3?sharingId=F980F4604DE0FA9E)
+[![Microsoft Applied Skills: Get started with classes, properties, and methods in C#][P2_MS1_CERT_IMG]][P2_MS1_CERT_LINK]
 
 - **Milestone 1: OOP Fundamentals**
   - **Learning Path 1: Implement classes, properties, and methods**
-    - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/uaxj5dy3)
-      - [Project: Get started with classes and objects](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP1_Implement-Classes-Properties-And-Methods/M1_Get-Started-With-Classes-And-Objects/Program.cs) 
-      - [Project: Implement class properties and methods](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP1_Implement-Classes-Properties-And-Methods/M2_Implement-Class-Properties-And-Methods/Program.cs) 
-      - [Project: Manage class implementations](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP1_Implement-Classes-Properties-And-Methods/M3_Manage-Class-Implementations/Bank/Bank.cs) 
+    - [Achievement][P2_MS1_LP1_ACH]
+      - [Project: Get started with classes and objects][P2_MS1_LP1_M1_PROJ] 
+      - [Project: Implement class properties and methods][P2_MS1_LP1_M2_PROJ] 
+      - [Project: Manage class implementations][P2_MS1_LP1_M3_PROJ] 
   - **Learning Path 2: Implement inheritance and polymorphism**
-    - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/cyn5wpt9)
-      - [Project: Implement class inheritance](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP2_Implement-Inheritance-And-Polymorphism/M1_Implement-Class-Inheritance/Bank/Bank.cs) 
-      - [Project: Implement polymorphic behavior](/P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP2_Implement-Inheritance-And-Polymorphism/M2_Implement-Polymorphic-Behavior/Bank/Bank.cs) 
+    - [Achievement][P2_MS1_LP2_ACH]
+      - [Project: Implement class inheritance][P2_MS1_LP2_M1_PROJ] 
+      - [Project: Implement polymorphic behavior][P2_MS1_LP2_M2_PROJ] 
     
 - **Milestone 2: Interfaces And Application data Management**
   - **Learning Path 1: Implement interfaces**
-    - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/fq2fqksx)
-      - [Project: Discover interfaces](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP1_Implement-Interfaces/M1_Discover-Interfaces/Program.cs)
-      - [Project: Apply interfaces in code](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP1_Implement-Interfaces/M2_Apply-Interfaces-In-Code/src/Program.cs)
-      - [Project: Design resilient code with interfaces](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP1_Implement-Interfaces/M3_Design-Resilient-Code-With-Interfaces/Program.cs)
+    - [Achievement][P2_MS2_LP1_ACH]
+      - [Project: Discover interfaces][P2_MS2_LP1_M1_PROJ]
+      - [Project: Apply interfaces in code][P2_MS2_LP1_M2_PROJ]
+      - [Project: Design resilient code with interfaces][P2_MS2_LP1_M3_PROJ]
   - **Learning Path 2: Manage application data**
-    - [Achievement](https://learn.microsoft.com/api/achievements/share/en-us/Gajdascz/2JBKUXHV?sharingId=F980F4604DE0FA9E)
-      -[Project: Get started with dates times and time zones](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP2_Manage-Application-Data/M1_Get-Started-With-Dates-Times-And-Time-Zones/Bank/Bank.cs)
-      -[Project: Implement collection types](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP2_Manage-Application-Data/M2_Implement-Collection-Types/Program.cs)
-      -[Project: Implement enum, struct, and record types](/P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP2_Manage-Application-Data/M3_Implement-Enum-Struct-And-Record-Types/Program.cs)
+    - [Achievement][P2_MS2_LP2_ACH]
+      - [Project: Get started with dates times and time zones][P2_MS2_LP2_M1_PROJ]
+      - [Project: Implement collection types][P2_MS2_LP2_M2_PROJ]
+      - [Project: Implement enum, struct, and record types][P2_MS2_LP2_M3_PROJ]
 
 
 - **Milestone 3: Local Filesystem IO, Asynchronous Programming, and Events**
   - **Learning Path 1: Access local files asynchronously**
-    - [Achievement](https://learn.microsoft.com/en-us/users/gajdascz/achievements/9rxehcru)
-      - [Project: Get started with file input and output](/P2_AdvancedCSharp/MS3_Local-Filesystem-IO-Asynchronous-Programming-And-Events/LP1_Access-Local-Files-Asynchronously/M1_Get-Started-With-File-Input-And-Output/Program.cs)
-      - [Project: Store and retrieve JSON files](/P2_AdvancedCSharp/MS3_Local-Filesystem-IO-Asynchronous-Programming-And-Events/LP1_Access-Local-Files-Asynchronously/M2_Store-And-Retrieve-JSON-Files/Program.cs)
-      - [Project: Implement asynchronous tasks](/P2_AdvancedCSharp/MS3_Local-Filesystem-IO-Asynchronous-Programming-And-Events/LP1_Access-Local-Files-Asynchronously/M3_Implement-Asynchronous-Tasks/Program.cs)
+    - [Achievement][P2_MS3_LP1_ACH]
+      - [Project: Get started with file input and output][P2_MS3_LP1_M1_PROJ]
+      - [Project: Store and retrieve JSON files][P2_MS3_LP1_M2_PROJ]
+      - [Project: Implement asynchronous tasks][P2_MS3_LP1_M3_PROJ]
   - **Learning Path 2: Implement delegates and events**
+    - [Achievement][P2_MS3_LP2_ACH]
+      - [Project: Get started with delegates][P2_MS3_LP2_M1_PROJ]
+      - [Project: Create and manage events][P2_MS3_LP2_M2_PROJ]
+
+- **Milestone 4: Intro to .NET**
+  - **Learning Path 1: Build .NET applications with C#**
+    - [Achievement][]
+
+<!-- References -->
+
+<!--#region> General -->
+[MSL_PLANS]: https://learn.microsoft.com/en-us/training/support/plans
+[P1_PLAN]: https://learn.microsoft.com/en-us/plans/r3n7b2tyepe2ko?tab=tab-modules#&sharingId=F980F4604DE0FA9E
+<!--#endregion -->
+
+<!--#region> Part 1: Get Started With C# -->
+[P1_COMPLETE_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/uax2gvt3
+[P1_COMPLETE_ACH_IMG]: /.github/assets/P1/plan-complete.png
+[FOUNDATIONAL_CERT_IMG]: /.github/assets/P1/foundational-csharp.png
+[FOUNDATIONAL_CERT_LINK]: https://www.freecodecamp.org/certification/gajdascz/foundational-c-sharp-with-microsoft
+<!--#region> Part 1: Milestone 1 -->
+[P1_MS1_LP1_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/zdplrpf2
+[P1_MS1_LP1_PROJ]: /P1_GetStartedWithCSharp/LP1_Write-Your-First-Code/Program.cs
+[P1_MS1_LP2_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/ypv6lsfr
+[P1_MS1_LP2_PROJ]: /P1_GetStartedWithCSharp/LP2_Create-And-Run-Simple-Console-Apps/Program.cs
+[P1_MS1_LP3_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/uaf97hz3
+[P1_MS1_LP3_PROJ]: /P1_GetStartedWithCSharp/LP3_Logic/Program.cs
+[P1_MS1_LP4_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/fq2all6x
+[P1_MS1_LP4_PROJ]: /P1_GetStartedWithCSharp/LP4_Work-With-Variable-Data/
+[P1_MS1_LP5_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/ake44lp7
+[P1_MS1_LP5_PROJ]: /P1_GetStartedWithCSharp/LP5_Methods/Program.cs
+[P1_MS1_LP6_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/37yv6mth
+[P1_MS1_LP6_PROJ]: /P1_GetStartedWithCSharp/LP6_Debugging/Program.cs
+<!--#endregion -->
+
+<!--#endregion -->
+
+<!--#region> Part 2: Advanced C# -->
+[P2_PLAN]: https://learn.microsoft.com/en-us/plans/3o7mf6t0qewg37?tab=tab-learning-paths#&sharingId=F980F4604DE0FA9E
+[P2_MS1_CERT_IMG]: /.github/assets/P2/ms-applied-skills_classes-properties-methods-csharp.png
+[P2_MS1_CERT_LINK]: https://learn.microsoft.com/api/credentials/share/en-us/Gajdascz/AD58F826416A0DE3?sharingId=F980F4604DE0FA9E
+
+<!--#region> Part 2: Milestone 1 -->
+[P2_MS1_LP1_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/uaxj5dy3
+[P2_MS1_LP1_M1_PROJ]: /P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP1_Implement-Classes-Properties-And-Methods/M1_Get-Started-With-Classes-And-Objects/Program.cs
+[P2_MS1_LP1_M2_PROJ]: /P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP1_Implement-Classes-Properties-And-Methods/M2_Implement-Class-Properties-And-Methods/Program.cs
+[P2_MS1_LP1_M3_PROJ]: /P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP1_Implement-Classes-Properties-And-Methods/M3_Manage-Class-Implementations/Bank/Bank.cs
+[P2_MS1_LP2_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/cyn5wpt9
+[P2_MS1_LP2_M1_PROJ]: /P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP2_Implement-Inheritance-And-Polymorphism/M1_Implement-Class-Inheritance/Bank/Bank.cs
+[P2_MS1_LP2_M2_PROJ]: /P2_AdvancedCSharp/MS1_OOP-Fundamentals/LP2_Implement-Inheritance-And-Polymorphism/M2_Implement-Polymorphic-Behavior/Bank/Bank.cs
+<!--#endregion -->
+<!--#region> Part 2: Milestone 2 -->
+[P2_MS2_LP1_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/fq2fqksx
+[P2_MS2_LP1_M1_PROJ]: /P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP1_Implement-Interfaces/M1_Discover-Interfaces/Program.cs
+[P2_MS2_LP1_M2_PROJ]: /P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP1_Implement-Interfaces/M2_Apply-Interfaces-In-Code/src/Program.cs
+[P2_MS2_LP1_M3_PROJ]: /P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP1_Implement-Interfaces/M3_Design-Resilient-Code-With-Interfaces/Program.cs
+[P2_MS2_LP2_ACH]: https://learn.microsoft.com/api/achievements/share/en-us/Gajdascz/2JBKUXHV?sharingId=F980F4604DE0FA9E
+[P2_MS2_LP2_M1_PROJ]: /P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP2_Manage-Application-Data/M1_Get-Started-With-Dates-Times-And-Time-Zones/Bank/Bank.cs
+[P2_MS2_LP2_M2_PROJ]: /P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP2_Manage-Application-Data/M2_Implement-Collection-Types/Program.cs
+[P2_MS2_LP2_M3_PROJ]: /P2_AdvancedCSharp/MS2_Interfaces-And-Application-Data-Management/LP2_Manage-Application-Data/M3_Implement-Enum-Struct-And-Record-Types/Program.cs
+<!--#endregion  -->
+<!--#region> Part 2: Milestone 3 -->
+[P2_MS3_LP1_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/9rxehcru
+[P2_MS3_LP1_M1_PROJ]: /P2_AdvancedCSharp/MS3_Local-Filesystem-IO-Asynchronous-Programming-And-Events/LP1_Access-Local-Files-Asynchronously/M1_Get-Started-With-File-Input-And-Output/Program.cs
+[P2_MS3_LP1_M2_PROJ]: /P2_AdvancedCSharp/MS3_Local-Filesystem-IO-Asynchronous-Programming-And-Events/LP1_Access-Local-Files-Asynchronously/M2_Store-And-Retrieve-JSON-Files/Program.cs
+[P2_MS3_LP1_M3_PROJ]: /P2_AdvancedCSharp/MS3_Local-Filesystem-IO-Asynchronous-Programming-And-Events/LP1_Access-Local-Files-Asynchronously/M3_Implement-Asynchronous-Tasks/Program.cs
+[P2_MS3_LP2_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/uayptft3
+[P2_MS3_LP2_M1_PROJ]: /P2_AdvancedCSharp/MS3_Local-Filesystem-IO-Asynchronous-Programming-And-Events/LP2_Implement-Delegates-And-Events/M1_Get-Started-With-Delegates/Program.cs
+[P2_MS3_LP2_M2_PROJ]: /P2_AdvancedCSharp/MS3_Local-Filesystem-IO-Asynchronous-Programming-And-Events/LP2_Implement-Delegates-And-Events/M2_Create-And-Manage-Events/Program.cs
+<!--#endregion -->
+
+<!--#endregion -->
