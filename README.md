@@ -64,6 +64,7 @@ _Object-oriented design and advanced C# topics._
 #### Achievements
 
 [![Microsoft Applied Skills: Get started with classes, properties, and methods in C#][P2_MS1_CERT_IMG]][P2_MS1_CERT_LINK]
+[![Completed Part 2][P2_COMPLETE_ACH_IMG]][P2_COMPLETE_ACH]
 
 - **Milestone 1: OOP Fundamentals**
   - **Learning Path 1: Implement classes, properties, and methods**
@@ -102,20 +103,28 @@ _Object-oriented design and advanced C# topics._
 
 - **Milestone 4: Intro to .NET**
   - **Learning Path 1: Build .NET applications with C#**
-    - [Achievement][]
+    - [Achievement][P2-MS4_LP1_ACH]
+      - [Project: Create a new .NET project and work with dependencies][P2-MS4_M3_PROJ]
+      - [Project: Interactively debug .NET apps with VSCode debugger][P2-MS4_M4_PROJ]
+      - [Project: Work with the file system][P2-MS4_M5_PROJ]
+      - [Project: Create a web API with ASP.NET Core controllers][P2-MS4_M6_PROJ]
 
 <!-- References -->
 
 <!--#region> General -->
 [MSL_PLANS]: https://learn.microsoft.com/en-us/training/support/plans
-[P1_PLAN]: https://learn.microsoft.com/en-us/plans/r3n7b2tyepe2ko?tab=tab-modules#&sharingId=F980F4604DE0FA9E
+
 <!--#endregion -->
 
 <!--#region> Part 1: Get Started With C# -->
+[P1_PLAN]: https://learn.microsoft.com/en-us/plans/r3n7b2tyepe2ko?tab=tab-modules#&sharingId=F980F4604DE0FA9E
+
 [P1_COMPLETE_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/uax2gvt3
 [P1_COMPLETE_ACH_IMG]: /.github/assets/P1/plan-complete.png
+
 [FOUNDATIONAL_CERT_IMG]: /.github/assets/P1/foundational-csharp.png
 [FOUNDATIONAL_CERT_LINK]: https://www.freecodecamp.org/certification/gajdascz/foundational-c-sharp-with-microsoft
+
 <!--#region> Part 1: Milestone 1 -->
 [P1_MS1_LP1_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/zdplrpf2
 [P1_MS1_LP1_PROJ]: /P1_GetStartedWithCSharp/LP1_Write-Your-First-Code/Program.cs
@@ -135,6 +144,10 @@ _Object-oriented design and advanced C# topics._
 
 <!--#region> Part 2: Advanced C# -->
 [P2_PLAN]: https://learn.microsoft.com/en-us/plans/3o7mf6t0qewg37?tab=tab-learning-paths#&sharingId=F980F4604DE0FA9E
+
+[P2_COMPLETE_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/fqv3jm7x
+[P2_COMPLETE_ACH_IMG]: /.github/assets/P2/plan-complete.png
+
 [P2_MS1_CERT_IMG]: /.github/assets/P2/ms-applied-skills_classes-properties-methods-csharp.png
 [P2_MS1_CERT_LINK]: https://learn.microsoft.com/api/credentials/share/en-us/Gajdascz/AD58F826416A0DE3?sharingId=F980F4604DE0FA9E
 
@@ -167,4 +180,16 @@ _Object-oriented design and advanced C# topics._
 [P2_MS3_LP2_M2_PROJ]: /P2_AdvancedCSharp/MS3_Local-Filesystem-IO-Asynchronous-Programming-And-Events/LP2_Implement-Delegates-And-Events/M2_Create-And-Manage-Events/Program.cs
 <!--#endregion -->
 
+<!--#region> Part 2: Milestone 4 -->
+[P2-MS4_LP1_ACH]: https://learn.microsoft.com/en-us/users/gajdascz/achievements/uaylerx3
+[P2-MS4_M3_PROJ]: /P2_AdvancedCSharp/MS4_Intro-To-NET/LP1_Build-Net-Applications-With-CSharp/M3_Create-A-New-NET-Project-And-Work-With-Dependencies/Program.cs
+[P2-MS4_M4_PROJ]: /P2_AdvancedCSharp/MS4_Intro-To-NET/LP1_Build-Net-Applications-With-CSharp/M4_Interactively-Debug-NET-Apps-With-VSCode-Debugger/Program.cs
+[P2-MS4_M5_PROJ]: /P2_AdvancedCSharp/MS4_Intro-To-NET/LP1_Build-Net-Applications-With-CSharp/M5_Work-With-The-File-System/Program.cs
+[P2-MS4_M6_PROJ]: /P2_AdvancedCSharp/MS4_Intro-To-NET/LP1_Build-Net-Applications-With-CSharp/M6_Create-A-Web-API-With-ASPNET-Core-Controllers/Program.cs
 <!--#endregion -->
+
+<!--#endregion -->
+
+
+
+

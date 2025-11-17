@@ -1,0 +1,37 @@
+@Address = https://localhost:7290
+
+GET {{Address}}/weatherforecast/
+Accept: application/json
+
+
+###
+
+# All Pizzas
+GET {{Address}}/pizza
+Accept: application/json
+
+###
+
+# Pizza by ID
+GET {{Address}}/pizza/1
+Accept: application/json
+
+###
+
+# POST a new Pizza
+POST {{Address}}/pizza
+Content-Type: application/json
+
+{
+  "name": "Hawaiian",
+  "isGlutenFree": false
+}
+
+###
+
+
+# DELETE a Pizza
+DELETE {{Address}}/pizza/3
+Accept: application/json
+
+###

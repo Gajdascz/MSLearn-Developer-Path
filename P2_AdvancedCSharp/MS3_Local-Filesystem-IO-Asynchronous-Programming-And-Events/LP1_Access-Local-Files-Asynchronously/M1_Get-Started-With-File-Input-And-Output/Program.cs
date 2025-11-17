@@ -178,7 +178,7 @@ Console.WriteLine("\nUse the StreamWriter and StreamReader classes.\n");
 string currentDirectory = Directory.GetCurrentDirectory();
 Console.WriteLine($"Current directory: {currentDirectory}");
 
-// Path will be in bin/Debug/net9.0 because GetCurrentDirectory retrieves the directory of the executable program
+// Path will be in bin/Debug/netX.X because GetCurrentDirectory retrieves the directory of the executable program
 string transactionDirectoryPath = Path.Combine(currentDirectory, "TransactionLogs");
 if (!Directory.Exists(transactionDirectoryPath))
 {

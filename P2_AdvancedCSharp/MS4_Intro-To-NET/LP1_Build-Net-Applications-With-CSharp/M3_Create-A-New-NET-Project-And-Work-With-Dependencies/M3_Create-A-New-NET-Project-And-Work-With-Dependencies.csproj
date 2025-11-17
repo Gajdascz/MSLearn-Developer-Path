@@ -2,8 +2,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net10.0</TargetFramework>
-    <RootNamespace>M2_Create_And_Manage_Events</RootNamespace>
+    <RootNamespace>M3_Create_A_New_NET_Project_And_Work_With_Dependencies</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Humanizer" Version="2.14.1" />
+  </ItemGroup>
 </Project>
