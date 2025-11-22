@@ -1,0 +1,30 @@
+@page "/edit/{Id:int}"
+
+@* Setting the rendermode of the page to InteractiveService preserves the state of changes of the values. *@
+@rendermode InteractiveServer
+
+<PageTitle>Edit page</PageTitle>
+
+@* Note: Many of the "class=" instances reference Bootstrap styles. *@
+
+@* Begin render Edit code block *@
+<EditForm OnSubmit="Submit" FormName="EditFruit" Model="_fruitList">
+  <InputNumber hidden="true" @bind-Value="_fruitList!.id" />
+  <div class="border p-3 mt-4" style="width:50%;">
+    <div class="row pb-2">
+      <h2 class="text-primary pl-3">Edit Fruit</h2>
+      <hr />
+    </div>
+    <div class="mb-3">
+      <label asp-for="FruitModels.name" class="h5"></label><br />
+      <InputText @bind-Value="_fruitList!.name" />
+    </div>
+    <div class="mb-3"><label class="h5"></label><br />
+      <InputCheckbox @bind-Value="_fruitList!.instock" style="width:20px;height:20px;" />
+      <label for="" class="h7"><i class="bi bi-arrow-left"></i>Check the box if available.</label>
+    </div>
+    <button type="submit" class="btn btn-danger" style="width:150px;">Save</button>
+    <a href="/" class="btn btn-secondary" style="width:150px;">Cancel</a>
+  </div>
+</EditForm>
+@* End render Delete code block *@

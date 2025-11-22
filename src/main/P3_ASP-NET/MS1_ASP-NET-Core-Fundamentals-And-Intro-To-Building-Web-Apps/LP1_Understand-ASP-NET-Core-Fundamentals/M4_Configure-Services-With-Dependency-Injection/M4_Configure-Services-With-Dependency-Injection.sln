@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M4_Configure-Services-With-Dependency-Injection", "M4_Configure-Services-With-Dependency-Injection.csproj", "{2F6C824A-5EE0-CB68-BB19-FD3493BB59BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F6C824A-5EE0-CB68-BB19-FD3493BB59BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6C824A-5EE0-CB68-BB19-FD3493BB59BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6C824A-5EE0-CB68-BB19-FD3493BB59BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6C824A-5EE0-CB68-BB19-FD3493BB59BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34EA426A-05F7-46CB-95C5-72F480D36A32}
+	EndGlobalSection
+EndGlobal

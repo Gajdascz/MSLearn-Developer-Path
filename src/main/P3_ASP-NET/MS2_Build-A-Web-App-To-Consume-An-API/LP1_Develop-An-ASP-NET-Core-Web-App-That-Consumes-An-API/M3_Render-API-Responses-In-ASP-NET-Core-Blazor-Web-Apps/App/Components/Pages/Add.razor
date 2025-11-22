@@ -1,0 +1,27 @@
+@page "/add"
+
+<PageTitle>Add</PageTitle>
+
+@* Note: Many of the "class=" instances reference Bootstrap styles. *@
+
+@* Begin render Add code block *@
+<EditForm OnSubmit="Submit" FormName="AddFruit" Model="_fruitList">
+  <InputNumber hidden="true" @bind-Value="_fruitList!.id" />
+  <div class="border p-3 mt-4" style="width:50%">
+    <div class="row pb-2">
+      <h2 class="text-primary pl-3">Add Fruit</h2>
+      <hr />
+    </div>
+    <div class="mb-3">
+      <label class="h5"></label><br />
+      <InputText @bind-Value="_fruitList!.name" />
+    </div>
+    <div class="mb-3"><label class="h5"></label><br />
+      <InputCheckbox @bind-Value="_fruitList!.instock" style="width:20px;height:20px" />
+      <label class="h7">Check the box if it's available.</label>
+    </div>
+    <button @onclick="() => Submit()" class="btn btn-primary" style="width:150px;">Create</button>
+    <a href="/" class="btn btn-secondary" style="width:150px;">Cancel</a>
+  </div>
+</EditForm>
+@* End render Add code block *@
